@@ -1,0 +1,117 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.6">
+  <diagram name="Page-1" id="chTpJEY3ZQqJPu-XK47c">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--1" value="" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="220" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--2" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="SYHaHPzSCXIA_gH7Yuk--1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--3" value="" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="400" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--4" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="SYHaHPzSCXIA_gH7Yuk--3">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--5" value="" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="SYHaHPzSCXIA_gH7Yuk--5">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--7" value="Doctors" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="370" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--8" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="SYHaHPzSCXIA_gH7Yuk--7">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--9" value="HPDB" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="260" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--10" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="SYHaHPzSCXIA_gH7Yuk--9">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--11" value="Labb clinics" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="470" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--12" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="SYHaHPzSCXIA_gH7Yuk--11">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--13" value="Patients" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--14" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="SYHaHPzSCXIA_gH7Yuk--13">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--15" value="Payments" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--16" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="SYHaHPzSCXIA_gH7Yuk--15">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--17" value="Mdicines" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--18" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="SYHaHPzSCXIA_gH7Yuk--17">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--19" value="Recioptianist" style="html=1;dropTarget=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="550" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--20" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="SYHaHPzSCXIA_gH7Yuk--19">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--21" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1.017;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SYHaHPzSCXIA_gH7Yuk--3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="760" y="539.5" as="sourcePoint" />
+            <mxPoint x="703" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="850" y="540" />
+              <mxPoint x="850" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--22" value="Managing&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SYHaHPzSCXIA_gH7Yuk--21">
+          <mxGeometry x="0.0544" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--24" value="Manage patients" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SYHaHPzSCXIA_gH7Yuk--1" target="SYHaHPzSCXIA_gH7Yuk--3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="430" as="sourcePoint" />
+            <mxPoint x="510" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SYHaHPzSCXIA_gH7Yuk--28" value="Manage bills" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="310" as="sourcePoint" />
+            <mxPoint x="520" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
